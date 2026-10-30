@@ -1,0 +1,11 @@
+/* Zoey's own colour (theory app). The rest of the palette comes from the
+   engine (@greenblacksky/honmoon/styles.css); this only sets the accent — electric blue — for
+   light and dark. Loaded after the engine's stylesheet, so these win. */
+:root {
+  --accent-l: #1f5fc8;
+  --accent-ink-l: #ffffff;
+  --accent-soft-l: #dce7fa;
+  --accent-d: #4db2ff;
+  --accent-ink-d: #04121f;
+  --accent-soft-d: #13284a;
+}
